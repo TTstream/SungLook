@@ -75,8 +75,7 @@
         app:layout_constraintTop_toBottomOf="@+id/tvDes"
         android:paddingLeft="20dp"
         android:paddingRight="20dp"
-        android:text="가격ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"
+        android:text="가격: 2,000원"
         android:id="@+id/tvPrice"
         />
 
